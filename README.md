@@ -17,7 +17,6 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 
 yarn create next-app [project-name] -e [GitHub URL]
-# or
 npx create-next-app [project-name] -e [GitHub URL]
 
 
